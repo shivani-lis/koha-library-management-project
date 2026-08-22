@@ -26,7 +26,10 @@ This project demonstrates practical work with the Koha Integrated Library Manage
 ![Library Configuration](koha-library-configuration.jpeg)
 
 ### Koha Patron Management
-![Patron Management](koha-patron-management.jpeg)
+![Patron Management](koha-patron-management.jpeg) 
+
+### OPAC Customization
+![OPAC Customization](opac-customization.jpeg)
 
 ### OPAC Book Search
 ![OPAC Book Search](opac-book-search.jpeg)
@@ -37,5 +40,4 @@ This project demonstrates practical work with the Koha Integrated Library Manage
 ### OPAC Search Results – Additional View
 ![OPAC Search Results – Additional View](opac-search-results1.jpeg)
 
-### OPAC Customization
-![OPAC Customization](opac-customization.jpeg)
+
