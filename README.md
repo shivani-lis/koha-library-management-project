@@ -1,2 +1,2 @@
 # koha-library-management-project
-Practical Koha Library Management System project showcasing library configuration, cataloguing, patron management and OPAC customization.
+A practical Koha Library Management System project demonstrating hands-on experience in installation, library configuration, patron management, budgeting, cataloguing, and OPAC customization.
